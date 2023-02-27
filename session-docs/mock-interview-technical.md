@@ -32,15 +32,15 @@ Technical Interview Pairings:
 
 | Collabie | Technical Interviewer |
 | ---- | ---- |
-| Louie Knolle  | Brian Hogan |
-| Nesha Mervin  | Stacie Taylor  |
-| Aubrey Finkelstein  | Eddie Solar |
-| Alex D'Antonio  | Caitlin Floyd |
-| Amanda DiNoto | Lisa Smith |
-| Jenna Ly  | Brian Hogan |
-| Ashelle Cancio  | Stacie Taylor |
-| Elizabeth Hammes  | Eddie Solar |
-| Tina  | Caitlin Floyd |
-| Nina Fuentes  | Lisa Smith |
-| Sarah Jenkins | Brian Hogan |
-| Devin Jaggernauth | Eddie Solar |
+| Louie Knolle  | Frank Stepanski |
+| Nesha Mervin  | EJ Mason  |
+| Aubrey Finkelstein  | Nick Taylor |
+| Alex D'Antonio  | Raj Gaurav Maurya |
+| Amanda DiNoto | Danielle Heberling |
+| Jenna Ly  | Nick Taylor |
+| Ashelle Cancio  | EJ Mason |
+| Elizabeth Hammes  | Nick Taylor |
+| Tina  | Raj Gaurav Maurya |
+| Nina Fuentes  | Danielle Heberling |
+| Sarah Jenkins | EJ Mason |
+| Devin Jaggernauth | Frank Stepanski |
