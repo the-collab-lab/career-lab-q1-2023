@@ -19,3 +19,16 @@ Linkedin Review Pairings:
 
 | Collabie | Linkedin Reviewer |
 | ---- | ---- |
+| Louie Knolle  | Lisa Smith |
+| Nesha Mervin  | Danielle Heberling  |
+| Aubrey Finkelstein  | Caitlin Floyd |
+| Alex D'Antonio  | Andrew Hedges |
+| Amanda DiNoto | Raj Gaurav Maurya |
+| Jenna Ly  | Nicole Schnurr |
+| Ashelle Cancio  | Shraddha |
+| Elizabeth Hammes  | Caitlin Floyd |
+| Tina  | Lauren Yu |
+| Nina Fuentes  | Stacie Taylor |
+| Sarah Jenkins | Andrew Hedges |
+| Devin Jaggernauth | Lauren Yu |
+
