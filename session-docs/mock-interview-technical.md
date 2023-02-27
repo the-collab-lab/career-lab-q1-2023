@@ -44,3 +44,4 @@ Technical Interview Pairings:
 | Nina Fuentes  | Danielle Heberling |
 | Sarah Jenkins | EJ Mason |
 | Devin Jaggernauth | Frank Stepanski |
+| Nicole Schnurr | Frank Stepanski |
