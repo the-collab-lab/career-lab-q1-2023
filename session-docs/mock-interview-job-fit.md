@@ -45,3 +45,4 @@ Job-Fit Interview Pairings:
 | Nina Fuentes  | Lisa Smith |
 | Sarah Jenkins | Brian Hogan |
 | Devin Jaggernauth | Eddie Solar |
+| Nicole Schnurr | Lisa Smith |
