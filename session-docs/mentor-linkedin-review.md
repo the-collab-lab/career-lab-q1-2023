@@ -24,11 +24,12 @@ Linkedin Review Pairings:
 | Aubrey Finkelstein  | Caitlin Floyd |
 | Alex D'Antonio  | Andrew Hedges |
 | Amanda DiNoto | Raj Gaurav Maurya |
-| Jenna Ly  | Nicole Schnurr |
+| Jenna Ly  | Lauren Yu |
 | Ashelle Cancio  | Shraddha |
 | Elizabeth Hammes  | Caitlin Floyd |
 | Tina  | Lauren Yu |
 | Nina Fuentes  | Stacie Taylor |
 | Sarah Jenkins | Andrew Hedges |
 | Devin Jaggernauth | Lauren Yu |
+| Nicole Schnurr | Shraddha |
 
