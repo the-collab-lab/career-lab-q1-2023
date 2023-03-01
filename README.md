@@ -19,9 +19,9 @@
 ### Week Two - Interviews
 | Date/ Date Range                            | Type  | Session |
 | ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- |
+| Sat, 3/11 @ 9:00 PT/12:00 ET                | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Sat, 3/11                                   | Async | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                         |
 | Sat, 3/11                                   | Async | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
-| TBD                                         | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Sun, 3/12 - Wed, 3/15 _-prep for your mock technical_  | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)              |
 | Sun, 3/12 - Wed, 3/15 _-prep for both mocks_  |_Sync*_| [Pair interview practice](./session-docs/pair-interview-practice.md)                                   |
 | Tue, 3/14 - Sat, 3/18                       |_Sync*_| [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
