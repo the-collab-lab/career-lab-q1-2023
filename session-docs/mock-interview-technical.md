@@ -12,7 +12,7 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 ## Interview preparation
 
 - Collabies will reach out to their assigned mentor to schedule the interview.
-- Collabies will send the interviewer their completed take-home assignment.
+- Collabies will send the interviewer their completed take-home assignment. [https://github.com/the-collab-lab/career-lab-challenge-next](https://github.com/the-collab-lab/career-lab-challenge-next)
 - Interviewers will use [this rubric](https://docs.google.com/spreadsheets/d/17m_A_cinlrju0H1KfNcodWgv1Dh8gsW-v5emcHSEjjA/edit) to review the Collabie's take-home assignment and get prepared to discuss their work in the interview.
 - Review the [Technical interview questions](../resources/technical-interview-questions.md)
 
