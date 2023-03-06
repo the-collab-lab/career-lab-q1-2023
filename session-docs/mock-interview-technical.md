@@ -40,7 +40,7 @@ Technical Interview Pairings:
 | Jenna Ly  | Nick Taylor |
 | Ashelle Cancio  | EJ Mason |
 | Elizabeth Hammes  | Nick Taylor |
-| Tina  | Raj Gaurav Maurya |
+| Tina Z | Raj Gaurav Maurya |
 | Nina Fuentes  | Danielle Heberling |
 | Sarah Jenkins | EJ Mason |
 | Devin Jaggernauth | Frank Stepanski |
