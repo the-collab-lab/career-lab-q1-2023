@@ -41,7 +41,7 @@ Job-Fit Interview Pairings:
 | Jenna Ly  | Brian Hogan |
 | Ashelle Cancio  | Stacie Taylor |
 | Elizabeth Hammes  | Eddie Solar |
-| Tina  | Caitlin Floyd |
+| Tina Z | Caitlin Floyd |
 | Nina Fuentes  | Lisa Smith |
 | Sarah Jenkins | Brian Hogan |
 | Devin Jaggernauth | Eddie Solar |
