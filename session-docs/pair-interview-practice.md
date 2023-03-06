@@ -14,7 +14,7 @@ If you have questions or comments, please don't hesitate to reach out in your co
 | ---- | ---- | ---- |
 | Louie Knolle  | Ashelle Cancio |
 | Nesha Mervin  | Elizabeth Hammes  |
-| Aubrey Finkelstein  | Tina |
+| Aubrey Finkelstein  | Tina Z |
 | Alex D'Antonio  | Nina Fuentes |
 | Amanda DiNoto | Sarah Jenkins |
 | Jenna Ly  | Devin Jaggernauth | Nicole Schnurr |
