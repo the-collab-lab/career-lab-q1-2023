@@ -27,7 +27,7 @@ Linkedin Review Pairings:
 | Jenna Ly  | Lauren Yu |
 | Ashelle Cancio  | Shraddha |
 | Elizabeth Hammes  | Caitlin Floyd |
-| Tina  | Lauren Yu |
+| Tina Z  | Lauren Yu |
 | Nina Fuentes  | Stacie Taylor |
 | Sarah Jenkins | Andrew Hedges |
 | Devin Jaggernauth | Lauren Yu |
